@@ -1,12 +1,14 @@
 # GitHub Practice
 
-This is my first GitHub repository.
+## About me
 
-I am learning GitHub step by step.
+I am learning GitHub from zero.
 
-## What I will practice here
+My goal is to use GitHub to organize my AI prompts, notes, and creative projects.
 
-- Creating a repository
-- Editing a README file
-- Making commits
-- Organizing simple project files
+## My First GitHub Skill.
+
+- Create a repository
+- Edit a README file
+- Commit changes
+- Write basic Markdown
