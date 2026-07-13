@@ -7,4 +7,4 @@ Today I learned how to create a new file in a repository.
 - Repository is a project folder
 - README introduces the project
 - Markdown helps format text
-- Commit saves changes.
+- Commit saves changes
