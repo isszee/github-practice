@@ -12,3 +12,9 @@ My goal is to use GitHub to organize my AI prompts, notes, and creative projects
 - Edit a README file
 - Commit changes
 - Write basic Markdown
+
+## Projects I Want to Build
+
+- AI Prompt Library
+- Character Bible
+- Personal Portfolio Website
