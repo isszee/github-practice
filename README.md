@@ -13,6 +13,11 @@ My goal is to use GitHub to organize my AI prompts, notes, and creative projects
 - Commit changes
 - Write basic Markdown
 
+## 📝 Resources
+
+- [My Notes](./notes.md) - ดูหมายเหตุของฉัน
+- [Prompts Folder](./prompts/) - ดูเอกสารของฉัน
+
 ## Projects I Want to Build
 
 - AI Prompt Library
