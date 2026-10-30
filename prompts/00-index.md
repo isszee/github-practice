@@ -2,6 +2,8 @@
 
 ## Collections
 
+- [First To นักศึกษา — Detailed Public Collection](./character-scenes/first-to-student-public/)
+
 - [First To นักศึกษา — Character & Scene Collection](./character-scenes/first-to-student/)
 
 - [UI Infographic](./ui-infographic/) — reusable infographic templates, layouts, styles, and design notes.
